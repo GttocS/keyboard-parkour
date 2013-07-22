@@ -37,11 +37,20 @@ Isam Machlovi <isam@withpulp.com>
 * `alt+/` - show statusbar
 * `cmd+j` - show view options
 
-## OS X
+### Universal Apps
+* `F13` - Recent Applications > Google Chrome.app
+* `F14` - Recent Applications > iTunes.app
+* `F15` - Recent Applications > MacVim.app
+
+## Universal
+* `CTRL+CMD+=` - Zoom
+* `CTRL+SHIFT+D` - Toggle hide/show Dock
+* `CTRL+CMD+M` - Un-minimize (where supported)
 Set these at **System Preferences > Keyboard > Keyboard Shortcuts > ...**  
 
 * Look up currently selected text phrase
 ** `Searching > Look up in Dictionary`
+
 * Google currently selected text phrase
 ** `Searching > Search with Google`
 
