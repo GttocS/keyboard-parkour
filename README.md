@@ -4,7 +4,7 @@ Isam Machlovi <isam@withpulp.com>
 
   An attempt to document most of the shortcuts I use. Not
   all shortcuts exist. A lot must be created manually in
-  the OS X keyboarf shortcuts pane.
+  the OS X keyboard shortcuts pane.
 ```
 
 ## iTerm2
@@ -37,22 +37,35 @@ Isam Machlovi <isam@withpulp.com>
 * `alt+/` - show statusbar
 * `cmd+j` - show view options
 
-### Universal Apps
+## Universal Apps
 * `F13` - Recent Applications > Google Chrome.app
 * `F14` - Recent Applications > iTunes.app
 * `F15` - Recent Applications > MacVim.app
 
-## Universal
+## Universal Functions
 * `CTRL+CMD+=` - Zoom
 * `CTRL+SHIFT+D` - Toggle hide/show Dock
 * `CTRL+CMD+M` - Un-minimize (where supported)
+
 Set these at **System Preferences > Keyboard > Keyboard Shortcuts > ...**  
 
 * Look up currently selected text phrase
-** `Searching > Look up in Dictionary`
+* * `Searching > Look up in Dictionary`
 
 * Google currently selected text phrase
-** `Searching > Search with Google`
+* * `Searching > Search with Google`
+
+## Text Fields
+### Special characters
+* `ALT+SHIFT+K` - Insert Apple symbol 
+* `ALT+SHIFT+-` - Insert long — (not -)
+* `ALT+SHIFT+]` - Insert ’
+* `ALT+SHIFT+[` - Surround with “ ”
+* `ALT+3` - Insert ¢
+* `ALT+3` - Insert £
+* `ALT+2` - Insert ™
+* `ALT+;` - Insert …
+* `ALT+V` - Insert √
 
 ### Copy path of selected file to clipboard:
 * Terminal: `/Users/blue/Google+\ Hangouts_files/cb=gapi.loaded_1`
@@ -61,3 +74,17 @@ Set these at **System Preferences > Keyboard > Keyboard Shortcuts > ...**
 * UNC:      `\\blue\Google+ Hangouts_files\cb=gapi.loaded_1`
 * HFS:      `meow:Users:blue:Google+ Hangouts_files:cb=gapi.loaded_1`
 * Windows:  `\Users\blue\Google+ Hangouts_files\cb=gapi.loaded_1`
+
+#### (documenting these)
+
+## RubyMine
+* …
+
+## Google Chrome
+* …
+
+## Mouse Gestures
+* …
+
+## BetterSnapTool
+* ...
